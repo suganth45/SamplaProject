@@ -5,11 +5,17 @@ public class mech {
 	public static void password() {
 		// TODO Auto-generated method stub
 		System.out.println("password");
+}
+	public static void userName() {
+		// TODO Auto-generated method stub
+		System.out.println("UserName");
+
 	}
 
 	public static void main(String[] args) {
 
 		password();
+		userName();
 		String studentid = "mkce/063";
 		String studentName = "sugan";
 		String studentEmail = "abc@gmail.com";
